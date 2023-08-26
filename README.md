@@ -21,3 +21,17 @@ Potato crops are susceptible to various diseases that can impact yield and quali
 - **Flask:** Used to develop the web application and handle user interactions.
 
 - **Next.js:** Used for designing the web app's user interface.
+
+- 
+## Buy the Project
+
+Interested in utilizing this project for your own purposes? Contact us to buy the project package, which includes:
+- Complete source code and pre-trained model.
+- In-depth documentation with step-by-step instructions.
+- Technical support for setup and customization.
+
+**Contact Information:**
+- Email: sialsanwal885@gmail.com
+- WhatsApp: [+923047127020](https://wa.me/1234567890)
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/sanwal-khan/)
+
