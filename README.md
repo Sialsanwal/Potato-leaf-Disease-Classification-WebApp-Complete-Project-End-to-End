@@ -1,5 +1,5 @@
 # Potato-leaf-Disease-Classification-WebApp-Complete-Project-End-to-End
-This repository contains a complete project focused on classifying potato leaf diseases using machine learning techniques. The project also includes the development of a web application that allows users to interactively classify potato leaf images for different diseases.
+This repository contains a complete project focused on classifying potato leaf diseases using machine learning techniques. The project also includes the development of a web application that allows users to classify potato leaf images for different diseases interactively.
 ## video
 
 
@@ -33,5 +33,5 @@ Interested in utilizing this project for your own purposes? Contact us to buy th
 **Contact Information:**
 - Email: sialsanwal885@gmail.com
 - WhatsApp: [+923047127020](https://wa.me/1234567890)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/sanwal-khan/)
+- LinkedIn: [sanwal-khan](https://www.linkedin.com/in/sanwal-khan/)
 
