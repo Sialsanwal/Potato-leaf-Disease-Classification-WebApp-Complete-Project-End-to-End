@@ -14,10 +14,10 @@ Potato crops are susceptible to various diseases that can impact yield and quali
 
 - Web Application: The web app allows users to upload potato leaf images and receive predictions about the presence of diseases. It provides a user-friendly interface for real-time classification.
 # Technologies Used
-- Python: Used for data preprocessing, model training, and web app development.
+- **Python:** Used for data preprocessing, model training, and web app development.
 
-- TensorFlow and Keras: Used to create, train, and evaluate the deep learning model.
+- **TensorFlow and Keras:** Used to create, train, and evaluate the deep learning model.
 
-- Flask: Used to develop the web application and handle user interactions.
+- **Flask:** Used to develop the web application and handle user interactions.
 
-- Next.js: Used for designing the web app's user interface.
+- **Next.js:** Used for designing the web app's user interface.
