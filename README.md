@@ -32,6 +32,6 @@ Interested in utilizing this project for your own purposes? Contact us to buy th
 
 **Contact Information:**
 - Email: sialsanwal885@gmail.com
-- WhatsApp: [+923047127020](https://wa.me/1234567890)
+- WhatsApp: [Dm](https://wa.me/+93047127020)
 - LinkedIn: [sanwal-khan](https://www.linkedin.com/in/sanwal-khan/)
 
