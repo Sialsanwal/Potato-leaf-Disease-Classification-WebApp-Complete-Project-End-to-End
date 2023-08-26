@@ -3,6 +3,8 @@ This repository contains a complete project focused on classifying potato leaf d
 ## video
 
 
+https://github.com/Sialsanwal/Potato-leaf-Disease-Classification-WebApp-Complete-Project-End-to-End/assets/56753162/d51bbd00-eb25-49eb-96ca-88b05b9ce36a
+
 
 ## Website Screenshoot
 
