@@ -13,3 +13,11 @@ Potato crops are susceptible to various diseases that can impact yield and quali
 - Machine Learning Model: The image classification model is built using a convolutional neural network (CNN) architecture. It's trained on labeled images to accurately classify different diseases.
 
 - Web Application: The web app allows users to upload potato leaf images and receive predictions about the presence of diseases. It provides a user-friendly interface for real-time classification.
+# Technologies Used
+- Python: Used for data preprocessing, model training, and web app development.
+
+- TensorFlow and Keras: Used to create, train, and evaluate the deep learning model.
+
+- Flask: Used to develop the web application and handle user interactions.
+
+- Next.js: Used for designing the web app's user interface.
